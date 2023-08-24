@@ -1,10 +1,7 @@
 # TypeBooks
-Library with TypeScript
 
-### Start project
-```bash
-npm init -y
-```
+## Library with TypeScript
+
 
 ### Dependencies
 ```bash
@@ -22,7 +19,7 @@ docker compose up -d
 ```
 ### Release port in use `ubuntu`
 - sudo lsof -i :3001
-- sudo kill <PID>
+- sudo kill `<PID>`
 
 ### Run server
 ```bash
