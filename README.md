@@ -1,0 +1,2 @@
+# TypeBooks
+Library with TypeScript
